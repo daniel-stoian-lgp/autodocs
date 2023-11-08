@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor
+.idea
+.vscode
+
+# Dependency directory
+node_modules
+
+# WebPack/Babel Build
+dist
+build
+bundle.js
+
+# Testing
+errorShots
+coverage
+.eslintcache
+
+# Mac
+.DS_Store
